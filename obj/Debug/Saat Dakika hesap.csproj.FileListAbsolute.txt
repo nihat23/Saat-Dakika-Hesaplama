@@ -1,0 +1,9 @@
+D:\VB\Saat Dakika hesap\bin\Debug\Saat Dakika hesap.exe.config
+D:\VB\Saat Dakika hesap\bin\Debug\Saat Dakika hesap.exe
+D:\VB\Saat Dakika hesap\bin\Debug\Saat Dakika hesap.pdb
+D:\VB\Saat Dakika hesap\obj\Debug\Saat_Dakika_hesap.Form1.resources
+D:\VB\Saat Dakika hesap\obj\Debug\Saat_Dakika_hesap.Properties.Resources.resources
+D:\VB\Saat Dakika hesap\obj\Debug\Saat Dakika hesap.csproj.GenerateResource.cache
+D:\VB\Saat Dakika hesap\obj\Debug\Saat Dakika hesap.exe
+D:\VB\Saat Dakika hesap\obj\Debug\Saat Dakika hesap.pdb
+D:\VB\Saat Dakika hesap\obj\Debug\Saat Dakika hesap.csprojAssemblyReference.cache
